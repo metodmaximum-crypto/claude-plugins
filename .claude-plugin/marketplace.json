@@ -1,0 +1,16 @@
+{
+  "name": "methodmaximum",
+  "owner": {
+    "name": "Method Maximum"
+  },
+  "metadata": {
+    "description": "Внутренние плагины агентства Method Maximum для SEO и производства сайтов."
+  },
+  "plugins": [
+    {
+      "name": "recon-site",
+      "source": "./plugins/recon-site",
+      "description": "Разведка структуры сайта и ниши до КП: спрос в Wordstat, выдача Яндекса и Google, структуры конкурентов, готовая структура сайта для калькулятора сметы."
+    }
+  ]
+}
